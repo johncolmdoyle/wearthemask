@@ -3,7 +3,7 @@ title: "Flow"
 date: 2020-12-21T23:21:48-05:00
 ---
 
-![Flow Diagram](/design/system_flow.png)
+![Flow Diagram](/wearthemask/design/system_flow.png)
 
 ## Description
 

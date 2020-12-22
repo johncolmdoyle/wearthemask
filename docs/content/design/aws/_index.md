@@ -3,7 +3,7 @@ title: "AWS Infrastructure"
 date: 2020-12-21T23:50:18-05:00
 ---
 
-![AWS Diagram](/design/aws.png)
+![AWS Diagram](/wearthemask/design/aws.png)
 
 ## Description
 
